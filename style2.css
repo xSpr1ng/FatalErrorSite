@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.saw {
+    transition: all 0.3s ease 0s;
+}
+
+.saw:hover{
+    color: aquamarine;
+}
